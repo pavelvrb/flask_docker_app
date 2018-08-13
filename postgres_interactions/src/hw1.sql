@@ -1,4 +1,4 @@
-SELECT ('ФИО: Капитан Америка');
+SELECT ('ФИО: Капитан Paul');
 -- первый запрос
 SELECT * FROM ratings LIMIT 10;
 
